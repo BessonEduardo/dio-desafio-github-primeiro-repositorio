@@ -1,0 +1,1 @@
+Baixando o Gitbash no site https://git-scm.com/download/win
